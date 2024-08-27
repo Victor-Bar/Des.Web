@@ -1,0 +1,9 @@
+/*seletor de elemento */
+body{
+    background-color: #a0a0a0;
+}
+div{
+   /* border-style: double;*/
+   border-bottom: 3px solid; 
+   margin: 3%;
+}
