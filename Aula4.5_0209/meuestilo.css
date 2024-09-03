@@ -1,0 +1,27 @@
+body{
+    background-color: azure;
+}
+
+footer{
+    background-color: rgb(19, 19, 19);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+table{
+    background-color: rgb(19, 19, 19) ;
+    color: rgb(255, 255, 255);
+}
+th{
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+}
+td{
+    border-right: solid;
+    border-left: solid;
+    border-bottom: solid;
+    border-color: rgb(255, 255, 255);
+}
+td:hover{
+    background-color: black;
+    color: aqua;
+}
