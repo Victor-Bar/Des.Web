@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(173, 173, 173);
+}
+.formulario{
+    width: 70%;
+    margin: 0 auto;
+    background-color: rgb(238, 238, 238);
+    padding: 3%;
+}
+input, textarea{
+    
+    margin-bottom: 2%;
+    border-radius: 5%;
+}
+.inputs{
+    display: block;
+    width: 100%;
+}
