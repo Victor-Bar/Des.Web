@@ -1,0 +1,44 @@
+body{
+    background-color: darkgray;
+    border: 5%;
+    /*margin: 0;
+    padding: 0;*/
+}
+i{
+    font-size: 35px;
+}
+
+.container{
+    border: 5%;
+    /*justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    /*flex-direction: row;
+    flex-wrap: wrap;*/
+    
+}
+
+.cabecalho{
+    background-color: rgb(255, 255, 255);
+    border-spacing: 5px;
+    border: 5px solid;
+    width: 100%;
+}
+.container2{
+   justify-content: space-between;
+   display: flex;
+
+}
+
+.menu{
+    border: solid;
+ border-color: black;
+    background-color: rgb(255, 255, 255);
+    width: 20%;
+    height: 70rem;
+}
+.cont{
+    border:solid;
+width: 80%;
+background-color: rgb(255, 255, 255);
+}
